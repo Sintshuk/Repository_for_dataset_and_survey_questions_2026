@@ -1,0 +1,5 @@
+representation,ari_vs_deployed_k6,note
+Spearman-rank PCA(2)+KMeans,0.735,ordinal-appropriate linear embedding
+rank-PCA(2)+KMeans,0.505,
+full-33D+KMeans,0.347,
+Gower+PAM,0.177,distance+medoid change

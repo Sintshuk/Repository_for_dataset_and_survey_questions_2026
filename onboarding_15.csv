@@ -1,0 +1,16 @@
+rank,code,domain,gloss,rf_importance
+1,QC_7,Comprehension,understand sensitive-data purpose,0.0542
+2,QCT_1,Comfort,comfort: data for targeted ads,0.0526
+3,QCT_8,Comfort,concern: data combination across sources,0.0422
+4,QC_8,Comprehension,understand who data is shared with,0.0394
+5,QCT_9,Comfort,concern: AI-based decisions,0.0386
+6,QPB_3,Behaviors,declined a purchase over privacy,0.0379
+7,QC_5,Comprehension,understand collection purpose,0.0369
+8,QCT_7,Comfort,concern: lack of control,0.0359
+9,QCT_4,Comfort,comfort: sharing with third parties,0.0356
+10,QC_1,Comprehension,understand what data is collected,0.0354
+11,QC_2,Comprehension,understand how data is used,0.0339
+12,QC_3,Comprehension,understand retention duration,0.0333
+13,QA_4,Awareness,aware of the privacy-by-default option,0.0329
+14,QCT_2,Comfort,comfort: data for personalized content,0.0328
+15,QC_6,Comprehension,can identify sensitive data,0.0314

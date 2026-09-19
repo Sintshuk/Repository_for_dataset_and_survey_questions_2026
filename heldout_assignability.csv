@@ -1,0 +1,10 @@
+feature_set,classifier,heldout_accuracy_mean,sd
+full_33,RandomForest,0.761,0.038
+full_33,LogReg,0.900,0.026
+full_33,NearestCentroid,0.903,0.033
+nested_top15,RandomForest,0.683,0.049
+nested_top15,LogReg,0.748,0.041
+nested_top15,NearestCentroid,0.758,0.042
+fixed_paper15,RandomForest,0.684,0.039
+fixed_paper15,LogReg,0.764,0.043
+fixed_paper15,NearestCentroid,0.769,0.040
